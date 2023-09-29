@@ -1,5 +1,4 @@
 name: Talent Fest
-
 on:
   push:
     branches: ["main"]
